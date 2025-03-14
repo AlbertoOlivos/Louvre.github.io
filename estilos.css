@@ -139,6 +139,11 @@ body {
 	display: flex; /*sera un elemento/item de tipo flex*/
 	justify-content: space-around; /*defino la alineación horizontal de los items hijos diciendo
 	cuando hay mas de uno distribuya el esapcio restante entre los espacios de cada elemento/item*/
+		font-family: "Corbel", sans-serif;
+	color: white;
+	font-size: 18pt;
+	display: flex; /*sera un elemento/item de tipo flex*/
+	margin-top: 10px;
 }
 .par-imgs-escritorio img{
 	width: 50%;
