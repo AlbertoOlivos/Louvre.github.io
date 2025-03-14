@@ -54,7 +54,7 @@ header {
 	cuando hay mas de uno distribuya el esapcio restante entre los espacios de cada elemento/item*/
 }
 .ligas-secciones a{/*caracteristicas elementos tipo enlace dentro del contenedor con clase secciones*/
-	color: grey; /*color que tendran las fuentes de los enlaces*/
+	color: #FFCB32; /*color que tendran las fuentes de los enlaces*/
 	text-decoration: none; /*le quito decoraciones a los enlaces, saeln sin subrayar ahora*/
   	font-weight: bold; /*tipo de letra bold*/
  	margin-top: 10px;
@@ -82,6 +82,14 @@ header {
 /********************************/
 /*estilos para body de la página*/
 /********************************/
+body {
+    background-color: #FFFFFF; /* Blanco en hexadecimal */
+    background-image: linear-gradient(to right, yellow 5%, transparent 5%, transparent 95%, yellow 95%);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+}
 .secciones {/*caracteristicas elementos en contenedor con la clase menu-container*/
   	display: flex; /*tipo de layout felxbox*/
   	flex-direction: column; /*rederizara/dibujara los items/elementos hijos en el layout 
