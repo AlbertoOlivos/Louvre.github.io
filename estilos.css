@@ -118,6 +118,7 @@ body {
 .texto-secc h2{
 	font-family: "Poiret One", sans-serif;
 	color: white;
+	font-size: 54pt;
 	display: flex; /*sera un elemento/item de tipo flex*/
 	justify-content: center; /*defino la alineación horizontal de los items hijos al centro*/
 	margin-top: 25px;
