@@ -110,7 +110,7 @@ body {
 }
 .texto-secc p{
 		font-family: "Corbel", sans-serif;
-	color: #white;
+	color: white;
 	font-size: 18pt;
 	display: flex; /*sera un elemento/item de tipo flex*/
 	margin-top: 10px;
