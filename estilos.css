@@ -115,6 +115,13 @@ body {
 	display: flex; /*sera un elemento/item de tipo flex*/
 	margin-top: 10px;
 }
+.texto-secc h2{
+	font-family: "Poiret One", sans-serif;
+	color: white;
+	display: flex; /*sera un elemento/item de tipo flex*/
+	justify-content: center; /*defino la alineación horizontal de los items hijos al centro*/
+	margin-top: 25px;
+}
 .contenedor-imagen {
   	display: flex; /*sera un elemento/item de tipo flex*/
   	flex-direction: column;
