@@ -248,6 +248,11 @@ body {
 	display: flex; /*sera un elemento/item de tipo flex*/
   	flex-direction: column;
   	align-items: center;
+  		font-family: "Corbel", sans-serif;
+	color: white;
+	font-size: 18pt;
+	display: flex; /*sera un elemento/item de tipo flex*/
+	margin-top: 10px;
 }
 .contenedor-imagen-secc4 p{
 	width: 80%;
