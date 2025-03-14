@@ -83,9 +83,12 @@ header {
 /*estilos para body de la página*/
 /********************************/
 body {
-    background-color: #181818; 
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
+    background-image: url("fondo.jpg"); /* Ruta de la imagen de fondo */
+    background-color: #181818; /* Color de fondo en caso de que la imagen no cargue */
+    background-size: cover; /* Hace que la imagen cubra toda la pantalla */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-attachment: scroll; /* Permite que la imagen haga scroll con la página */
+    background-position: center top; /* Centra la imagen en la parte superior */
     margin: 0;
     padding: 0;
 }
