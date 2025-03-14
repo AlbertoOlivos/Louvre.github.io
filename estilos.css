@@ -211,6 +211,9 @@ body {
 	}
  }
 .contenedor-imagen img{
+	font-family: "Corbel", sans-serif;
+	color: white;
+	font-size: 18pt;
 	display: flex; /*sera un elemento/item de tipo flex*/
 	width: 50%;
 	transition: 200ms;
