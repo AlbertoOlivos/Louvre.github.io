@@ -102,6 +102,8 @@ body {
   	como una columna, un contenedor o un item sobre el otro */
 }
 .texto-secc h1{
+	font-family: "Staatliches", sans-serif;
+	color: #ffcb32;
 	display: flex; /*sera un elemento/item de tipo flex*/
 	justify-content: center; /*defino la alineación horizontal de los items hijos al centro*/
 	margin-top: 25px;
